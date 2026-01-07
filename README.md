@@ -5,10 +5,10 @@
 2.) x = 2
 3.) This line prints a line of dialogue in the console: "Hello World" every frame.
 4.) replace ??? with MonoBehaviour
-5.) At the start of the game, it prints the number 10. 
-6.) The name of "10" is an integer. It represents the starting amount or number at the beginning of the game. ("x=" + x) represents adding on to the current score that the player has. When this happens, in the debug log, it will check to see if it is updating the number.
+5.) At the start of the game, it prints x = 10. 
+6.) The name of "10" is an argument. It represents the starting amount or number at the beginning of the game. ("x=" + x) is a parameter which represents what we're passing in for x. It will show in the debug log console: x = 10
 7.) The _playerTransform variable is instantiated but never used.
-8.) Transform.Translate is written incorrectly. Should be written like: transform.translate....it should also probably be replaced with _playerTransform.Translate
+8.) Transform.Translate is written incorrectly. It should be replaced with _playerTransform.Translate
 ## In Class Activity 1
 
 - Make notes
