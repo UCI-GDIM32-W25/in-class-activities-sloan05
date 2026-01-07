@@ -6,9 +6,9 @@ Cat:
 	
 	Attributes:
 
-speed
+		speed
 
-sprite
+		sprite
 	
 	Actions:
 
