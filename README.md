@@ -12,34 +12,32 @@ sprite
 	
 	Actions:
 
-movement (wasd)
+		movement (wasd)
 
-movement/translate
+		movement/translate
 
 Plant:
 
-Attributes:
+	Attributes:
 
-location: current cat location
+		location: current cat location
 
-Actions:
+	Actions:
 
-hit space button → plant appears
+		hit space button → plant appears
 
-counter: seeds remaining and seeds planted
+		counter: seeds remaining and seeds planted
 
 
 UI: 
 
-displays the amount of seed plants
+	displays the amount of seed plants
 
-display the amount of planted seeds
+	display the amount of planted seeds
 
-Use devlog
+	Add background
 
-Add background
-
-How do these objects act on or affect each other?
+	How do these objects act on or affect each other?
 
 - The cat's current location affects where the plant will be placed. 
 ## In Class Activity 2
