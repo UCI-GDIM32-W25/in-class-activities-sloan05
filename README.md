@@ -1,5 +1,30 @@
 # GDIM32 In Class Activities
 
+## In Class Activity 3
+
+Cat:
+	Attributes:
+speed
+sprite
+	Actions:
+movement (wasd)
+movement/translate
+Plant:
+Attributes:
+location: current cat location
+Actions:
+hit space button → plant appears
+counter: seeds remaining and seeds planted
+
+
+UI: 
+displays the amount of seed plants
+display the amount of planted seeds
+Use devlog
+Add background
+
+How do these objects act on or affect each other?
+- The cat's current location affects where the plant will be placed. 
 ## In Class Activity 2
 1.) x = 10
 2.) x = 2
