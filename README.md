@@ -4,11 +4,11 @@
 
 Cat:
 	
-	Attributes:
+	- Attributes:
 
-		speed
+	- speed
 
-		sprite
+	- sprite
 	
 	Actions:
 
