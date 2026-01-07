@@ -1,5 +1,5 @@
 # GDIM32 In Class Activities
-
+# Week 1
 ## In Class Activity 3
 
 Cat:
