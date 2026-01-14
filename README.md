@@ -5,6 +5,7 @@
 
 ## Activity 2
 [link to commit](https://github.com/UCI-GDIM32-W25/mg2-sloan05/commit/a9a9bb949befcb4d9b34b04b1aaad61d0039c794)
+In class, I worked on getting the penguin to jump, I set up the coin prefabs, the ground, and the penguin sprite. I also started setting up the code that is supposed to "destroy" the coins once the penguin collects/collides with them. Everything's set up in the hierarchy correctly, and I attached colliders and rigibody to the coins, ground, and player character. Lastly, in order to make the coins spawn on the right, and then despawn on the left, I set up a square GameObject on the right and attached its own script to it, and set up a similar square GameObject to the left with its script attached to it. The square on the left has a collider component. My plan was to have the square GameObject on the right spawn the coins, and the square GameObject on the left "destroy" or despawn the coins once the coins collide with it.
 
 # Week 1
 ## In Class Activity 3
