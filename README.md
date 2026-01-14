@@ -1,4 +1,10 @@
 # GDIM32 In Class Activities
+#W2
+## Activity 1
+
+## Activity 2
+
+
 # Week 1
 ## In Class Activity 3
 Link: 
