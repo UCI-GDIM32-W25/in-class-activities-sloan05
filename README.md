@@ -3,7 +3,7 @@
 ## Activity 1
 
 ## Activity 2
-
+[link to commit](https://github.com/UCI-GDIM32-W25/mg2-sloan05/commit/a9a9bb949befcb4d9b34b04b1aaad61d0039c794)
 
 # Week 1
 ## In Class Activity 3
