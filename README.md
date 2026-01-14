@@ -1,6 +1,7 @@
 # GDIM32 In Class Activities
 #W2
 ## Activity 1
+![Uploading IMG_8541.jpg…]()
 
 ## Activity 2
 [link to commit](https://github.com/UCI-GDIM32-W25/mg2-sloan05/commit/a9a9bb949befcb4d9b34b04b1aaad61d0039c794)
