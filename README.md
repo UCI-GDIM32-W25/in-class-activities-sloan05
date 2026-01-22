@@ -1,4 +1,12 @@
 # GDIM32 In Class Activities
+
+#W3
+## Activity 0-2
+My partner for the activity: Alejandra
+
+## Activity 3
+![IMG_8584](https://github.com/user-attachments/assets/887b21b6-094d-4f26-b86d-495b6cf49b90)
+
 #W2
 ## Activity 1
 ![Uploading IMG_8541.jpg…]()
