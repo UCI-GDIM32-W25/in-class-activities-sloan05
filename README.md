@@ -2,7 +2,12 @@
 
 #W4
 ## Activity 1
-1.) When you run the game with multiple locator objects in the scene, the duplicate locator objects delete themselves, leaving only one locator object. The code: if (Instance != null && Instance != this)
+Partner: Kai
+
+
+1.) When you run the game with multiple locator objects in the scene, the duplicate locator objects delete themselves, leaving only one locator object. The code: 
+
+if (Instance != null && Instance != this)
         {
             Destroy(this);
             return;
