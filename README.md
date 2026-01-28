@@ -1,5 +1,14 @@
 # GDIM32 In Class Activities
 
+#W4
+## Activity 1
+1.) When you run the game with multiple locator objects in the scene, the duplicate locator objects delete themselves, leaving only one locator object. The code: if (Instance != null && Instance != this)
+        {
+            Destroy(this);
+            return;
+        } 
+Makes sure that only one Locator exist at a time while the game is running. 
+
 #W3
 ## Activity 0-2
 My partner for the activity: Alejandra
