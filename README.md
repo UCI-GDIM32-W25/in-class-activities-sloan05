@@ -9,6 +9,10 @@
         } 
 Makes sure that only one Locator exist at a time while the game is running. 
 
+## Activity 2 Mini game 4 Breakdown
+![IMG_8699](https://github.com/user-attachments/assets/11cc3b0d-7e63-477b-9777-52e8246fada4) 
+
+
 #W3
 ## Activity 0-2
 My partner for the activity: Alejandra
