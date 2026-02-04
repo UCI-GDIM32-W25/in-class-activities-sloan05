@@ -9,6 +9,10 @@ public class W4UI : MonoBehaviour
     // add a new method here
     // use the Locator to find the Pigeon
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
+    private void Start ()
+    {
+        Locator.Pigeon.PigeonCoo += HandlePigeonCoo;
+    }
 
 
 
@@ -16,6 +20,7 @@ public class W4UI : MonoBehaviour
 
 
     // don't change the code in this method!
+
     public void HandlePigeonCoo ()
     {
         _pigeonCooDialogue.SetActive(true);
