@@ -1,5 +1,29 @@
 # GDIM32 In Class Activities
 
+#W5
+## Activity 1
+
+1.) what do you think of the design of these interfaces and abstract classes? Would you keep it the same, or change it, if you were building a project with items like these?
+
+- I would keep it the same because the item class doesn't need to become a componant.
+
+## Activity 2
+
+2.) in the second demo, what classes represent the Model, View, and Controller aspects of the MVC pattern used in the scene?
+
+- The scriptable objects represent the model, the view is represented by the enemy dialogue and player ui, the the player and enemy represent the logic.
+
+## Activity 3
+
+- Player script includes: abstract class. As well as scriptable objects (Ex: for different character movements as well as different character health stats?) 
+- Attacks would use: inheritance (Ex: for the character to have unique attacks --> punch : Attack, as well as different players having different attacks)
+- State machines for what state the player or
+
+## Activity 4
+
+Attendance: Bilal, Laura, me
+[Final project proposal](https://docs.google.com/document/d/11w2xkRcvvsdrWrjTOsVOLnSm630WmjlCOwrMvn1rDKk/edit?tab=t.0)    
+
 #W4
 ## Activity 1
 Partner: Kai
