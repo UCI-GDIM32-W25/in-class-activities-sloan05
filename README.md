@@ -1,6 +1,6 @@
 # GDIM32 In Class Activities
 
-#W5
+# W5
 ## Activity 1
 
 1.) what do you think of the design of these interfaces and abstract classes? Would you keep it the same, or change it, if you were building a project with items like these?
@@ -24,7 +24,7 @@
 Attendance: Bilal, Laura, me
 [Final project proposal](https://docs.google.com/document/d/11w2xkRcvvsdrWrjTOsVOLnSm630WmjlCOwrMvn1rDKk/edit?tab=t.0)    
 
-#W4
+# W4
 ## Activity 1
 Partner: Kai
 
@@ -42,7 +42,7 @@ Makes sure that only one Locator exist at a time while the game is running.
 ![IMG_8699](https://github.com/user-attachments/assets/11cc3b0d-7e63-477b-9777-52e8246fada4) 
 
 
-#W3
+# W3
 ## Activity 0-2
 My partner for the activity: Alejandra
 
@@ -50,7 +50,7 @@ My partner for the activity: Alejandra
 ![Uploading IMG_8583.jpg…]() 
 
 
-#W2
+# W2
 ## Activity 1
 ![Uploading IMG_8541.jpg…]()
 
@@ -92,11 +92,7 @@ https://docs.google.com/document/d/1HH-a70vlsNRXiXXa4zF664u3KKXgsxgVxMmo6fgR_Y0/
 - Create map concepts 
 - make sure your itch links work for the love of god
 
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
-
-Hit enter TWICE to create a new line.
 
 
 - Create bullet points by writing dashes.
