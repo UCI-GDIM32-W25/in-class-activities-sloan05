@@ -121,4 +121,3 @@ https://docs.google.com/document/d/1HH-a70vlsNRXiXXa4zF664u3KKXgsxgVxMmo6fgR_Y0/
 - Here's another bullet point entry.
 
 
-Remove all placeholder text in order to get full credit for README file formatting.
