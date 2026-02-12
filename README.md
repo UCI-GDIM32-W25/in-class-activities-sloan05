@@ -1,5 +1,27 @@
 # GDIM32 In Class Activities
 
+# W6
+## Activity 1: Tool Demos
+
+- Don't use GetComponent in Update(). Use in Start()?
+
+- Make player a member variable?
+
+- Use GetComponent if the object hasn't been introduced yet.
+
+- Mesh colliders are pretty inefficiant. Use simple ones like circle collider.
+
+- Using too many Rigidbodies will make your game run slow. If all you need to do is detect a collision, put a Rigidbody on the player and not the other object.
+
+- Singleton example: W6 Demo3 _Breakpoints --> checking that there's only one at a time. Awake() is called before start! Set singleton up in Awake. Set ResetGame(); in Start().
+
+
+## Activity 2: Final Project Group Meeting
+
+- Role call: everyone was here!
+
+
+
 # W5
 ## Activity 1
 
