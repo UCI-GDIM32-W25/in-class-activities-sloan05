@@ -13,7 +13,11 @@ Everyone is present; Bilal, Laura, me
 
 ## Activity 3: Final Break Down
 
-[Uploading cdn.discordapp.com:.webloc…]() 
+![Uploading cdn.discordapp.com:.webloc…]() 
+
+## Activity 4: Assign Initial Tasks
+
+Link to our Trello board: https://trello.com/invite/b/69951f8bd4b38792b826893f/ATTI51ebc3e5415633306f20377b52ed6d4f6A218A6F/GDIM%2032%20Final%20Project%20(The%20Goated)  
 
 
 # Week 6
