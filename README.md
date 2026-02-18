@@ -13,7 +13,7 @@ Everyone is present; Bilal, Laura, me
 
 ## Activity 3: Final Break Down
 
-![][Uploading cdn.discordapp.com:.webloc…]()  
+![image alt][Uploading cdn.discordapp.com:.webloc…]()   
 
 ## Activity 4: Assign Initial Tasks
 
