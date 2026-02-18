@@ -13,7 +13,7 @@ Everyone is present; Bilal, Laura, me
 
 ## Activity 3: Final Break Down
 
-![image alt]<img width="2360" height="1640" alt="TheGoatedGameBreakdown" src="https://github.com/user-attachments/assets/495ec4ee-83fc-4c2a-bdfb-c59911a50164" />
+<img width="2360" height="1640" alt="TheGoatedGameBreakdown" src="https://github.com/user-attachments/assets/495ec4ee-83fc-4c2a-bdfb-c59911a50164" />
 
 
 
