@@ -1,7 +1,7 @@
 # GDIM32 In Class Activities
 
 # Week 7
-## Actibity 1: Raycasting & NPC State Machine
+## Activity 1: Raycasting & NPC State Machine
 
 - NPC uses state machine. 2 states: Wander, Chase.
 
@@ -13,7 +13,7 @@ Everyone is present; Bilal, Laura, me
 
 ## Activity 3: Final Break Down
 
-![Uploading cdn.discordapp.com:.webloc…]() 
+![][Uploading cdn.discordapp.com:.webloc…]()  
 
 ## Activity 4: Assign Initial Tasks
 
