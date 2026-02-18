@@ -1,6 +1,22 @@
 # GDIM32 In Class Activities
 
-# W6
+# Week 7
+## Actibity 1: Raycasting & NPC State Machine
+
+- NPC uses state machine. 2 states: Wander, Chase.
+
+- States change based on whether or not the duck has a line of sight to the player. If the raycast line goes through a tree before hitting the duck, UpdateState(), RunState() --> switch statement.
+
+## Activity 2: Group Meeting Attendance:
+
+Everyone is present; Bilal, Laura, me
+
+## Activity 3: Final Break Down
+
+[Uploading cdn.discordapp.com:.webloc…]() 
+
+
+# Week 6
 ## Activity 1: Tool Demos
 
 - Don't use GetComponent in Update(). Use in Start()?
