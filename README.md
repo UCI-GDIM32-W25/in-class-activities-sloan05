@@ -12,6 +12,21 @@
 - Post-processing: are shaders that affect the look of your entire screen. Make sure to find effects that are compatable with your pipeline and unity version.
 
 - When downloading effects: download --> open with/in Unity --> import --> add effect --> select your effect.
+
+## Activity 2: group meeting attendance
+
+Attendance: Bilal, Bella, Laura
+
+## Activity 3: playtest notes
+
+- Fix character sliding issue
+
+- Mouse cursor sensitivity is too high, but like only on some people's laptops for some reason.
+
+- Camera movement/player turning around is kinda janky and laggy --> missing Time.deltaTime so maybe that's the reason.
+
+- Get cursor locked to screen
+
 # Week 7
 ## Activity 1: Raycasting & NPC State Machine
 
