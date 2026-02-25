@@ -27,6 +27,10 @@ Attendance: Bilal, Bella, Laura
 
 - Get cursor locked to screen
 
+## Activity 4: task check-in
+
+- Today I'm going to focus on fixing the player sliding across the ground...that shouldn't be happening. I'll also lock the cursor, and fix the laggy feel when the player looks around.
+
 # Week 7
 ## Activity 1: Raycasting & NPC State Machine
 
