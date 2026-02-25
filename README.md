@@ -1,5 +1,17 @@
 # GDIM32 In Class Activities
 
+# Week 8
+## Activity 1: Post Processing Demo
+
+- Rendering pipeline is a squence of instructions for how everything in the game will be drawn on screen. --> IMPORTANT: Only shaders made for a particle pipeline will work in that particular pipeline.
+
+- Unity: built-in pipeline OR a Scriptable Rendering Pipeline (Universal URP)
+
+- To find out which RP you're using: Edit --> project settings --> graphics. If scriptable render pipeline is empty --> you're using the built-in pipeline.
+
+- Post-processing: are shaders that affect the look of your entire screen. Make sure to find effects that are compatable with your pipeline and unity version.
+
+- When downloading effects: download --> open with/in Unity --> import --> add effect --> select your effect.
 # Week 7
 ## Activity 1: Raycasting & NPC State Machine
 
