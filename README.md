@@ -48,7 +48,7 @@ What we're working on for this week:
 
 ## Activity 5: work on your final
 
-link to commit: 
+link to commit: https://github.com/lindenreid/GDIM32-Final/commit/04d371165da9c41e0b79740d225a152206ea9802 
 # Week 8
 ## Activity 1: Post Processing Demo
 
