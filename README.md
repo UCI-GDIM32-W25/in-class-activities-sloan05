@@ -1,5 +1,54 @@
 # GDIM32 In Class Activities
 
+# Week 9
+
+## Activity 1: branching dialogue demo
+
+Notes: Scaling- whether or not your code will scale well... it will if when the program starts handling a lot of data, ex: lot's of players, it needs to be performant and easy for users to add more data. For coding large projects with a big team, other people need to be able to understand what you're doing. You also need to be able to describe/breakdown your ideas into a specific system. How scaling relates to design patterns we've used in class: separating systems so that you can handle more data (state machines, MVC, abstraction and polymorphism).
+
+## Activity 2: group meeting attendance
+
+Attendance: Bilal, Bella, Laura
+
+## Activity 3: playtest
+
+Feedback: 
+
+- players spins around...lock the y rotation or smth on the player prefab (already fixed)
+
+- Lower sensitivity(already fixed)
+
+- Finishing adding colliders to buildings (fixed)
+
+- add some dialogue ui that tells the player how to move around.
+
+- add sprint feature (with cooldown bar)
+
+## Activity 4: task check-in
+
+We're halfway through the completion of our game. I'd say we're doing well with keeping on track with our tasks. From last week we:
+
+- added two kinds of light
+
+- added more to the terrain
+
+- adding colliders to the buildings
+
+- finished the inventory ui
+
+- finished the item interaction (picking up the item and either dropping it, or eating it)
+
+What we're working on for this week:
+
+        Bilal: Branching dialogue, and npc animations
+
+        Laura: Adding a timer to the UI dialgoue, enemy spawning, player health bar UI
+
+        Bella: Adding a sprint feature + sprint UI cooldown bar, zombie movement/chasing the player code
+
+## Activity 5: work on your final
+
+link to commit: 
 # Week 8
 ## Activity 1: Post Processing Demo
 
