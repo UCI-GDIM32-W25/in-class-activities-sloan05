@@ -49,6 +49,8 @@ What we're working on for this week:
 ## Activity 5: work on your final
 
 link to commit: https://github.com/lindenreid/GDIM32-Final/commit/04d371165da9c41e0b79740d225a152206ea9802 
+
+I fixed the problem where the player kept rotating randomly when it collided with a building.
 # Week 8
 ## Activity 1: Post Processing Demo
 
