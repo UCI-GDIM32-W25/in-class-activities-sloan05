@@ -25,7 +25,7 @@ We're definitely halfway through our game, probably a bit more (probably like 70
 
 ## Activity 4: work on your final
 
-Link to commit: 
+Link to commit (started working on it during class and finished it at home): https://github.com/BilalPayton/The-Goated-GDIM32-Final/commit/2a7d0f05508280477462ae84a8feb1989d6f4fa5 
 
 # Week 9
 
