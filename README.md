@@ -1,5 +1,28 @@
 # GDIM32 In Class Activities
 
+# Week 10
+
+## Activity 1: group meeting attendance
+
+Attendance:  Bilal, Bella, Laura
+
+## Activity 2: playtest
+
+Feedback: 
+
+- default speed too slow
+
+- sprint too fast
+
+- view is a bit too dark
+
+- when you walk too far away from the buildings the ui just dissapears
+mouse sensitivity still too high
+
+## Activity 3: task check-in
+
+We're definitely halfway through our game, probably a bit more (probably like 70% done). All we have left to finish is the zombie npc navmesh and movment script (including the different states of the zombie: wander, chase, attack), and the branching dialogue. Honestly if we'd worked on it more during the previous week we could've been done with the zombie npc movement, but we're not behind by any means, this just won't let us add any bonus features we were hoping to add.
+
 # Week 9
 
 ## Activity 1: branching dialogue demo
