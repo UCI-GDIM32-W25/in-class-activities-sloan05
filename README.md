@@ -23,6 +23,10 @@ mouse sensitivity still too high
 
 We're definitely halfway through our game, probably a bit more (probably like 70% done). All we have left to finish is the zombie npc navmesh and movment script (including the different states of the zombie: wander, chase, attack), and the branching dialogue. Honestly if we'd worked on it more during the previous week we could've been done with the zombie npc movement, but we're not behind by any means, this just won't let us add any bonus features we were hoping to add.
 
+## Activity 4: work on your final
+
+Link to commit: 
+
 # Week 9
 
 ## Activity 1: branching dialogue demo
